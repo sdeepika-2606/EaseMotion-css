@@ -1,5 +1,5 @@
 # ============================================================
-# CODEOWNERS — Flow CSS
+# CODEOWNERS — EaseMotion CSS
 #
 # This file defines who must review and approve changes to
 # each part of the repository. GitHub will automatically
@@ -20,7 +20,7 @@
 
 # ── Infrastructure ────────────────────────────────────────────
 /.github/               @SAPTARSHI-coder
-/flow.css               @SAPTARSHI-coder
+/easemotion.css         @SAPTARSHI-coder
 /README.md              @SAPTARSHI-coder
 /CONTRIBUTING.md        @SAPTARSHI-coder
 /LICENSE                @SAPTARSHI-coder
@@ -29,4 +29,4 @@
 # Contributors may add new folders here only.
 # The wildcard means any PR touching existing files still
 # requires maintainer review, but new files are permitted.
-/submissions/examples/  @SAPTARSHI-coder
+/submissions/           @SAPTARSHI-coder
